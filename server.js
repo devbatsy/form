@@ -1,3 +1,3 @@
-const {initialiseWebEnv} = require('./sydneyLib/serverBundle');
+const {initialiseWebEnv} = require('./sydneyLib/serverBundle.js');
 
 initialiseWebEnv();
